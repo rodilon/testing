@@ -1,7 +1,5 @@
 package com.rodilon.unittesting;
 
-import android.app.Application;
-
 import androidx.room.Room;
 import androidx.test.core.app.ApplicationProvider;
 
